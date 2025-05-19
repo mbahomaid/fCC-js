@@ -8,3 +8,6 @@ console.log(count + 1);
 
 // Print count - 1 to the console.
 console.log(count - 1);
+
+// Print count * 2 to the console.
+console.log(count * 2);

@@ -13,5 +13,8 @@ console.log(character);
 // Use camel case to declare a new variable named secondCharacter.
 let secondCharacter;
 
+// Assign the string "Test" to your secondCharacter variable below your declaration. 
+secondCharacter = "Test";
+
 // Add a console.log() to see what the value of your secondCharacter variable is.
 console.log(secondCharacter);

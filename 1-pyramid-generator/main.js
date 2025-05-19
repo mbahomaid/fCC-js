@@ -1,3 +1,3 @@
-// Initialize your character variable by assigning it the value "Hello" during its declaration.
+// Change your "Hello" string to use single quotes.
 
-let character = "Hello";
+let character = 'Hello';

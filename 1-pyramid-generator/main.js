@@ -11,3 +11,6 @@ console.log(count - 1);
 
 // Print count * 2 to the console.
 console.log(count * 2);
+
+// Print count / 2 to the console.
+console.log(count / 2);

@@ -1,3 +1,3 @@
-// Use the let keyword to declare a variable called character.
+// Initialize your character variable by assigning it the value "Hello" during its declaration.
 
-let character;
+let character = "Hello";

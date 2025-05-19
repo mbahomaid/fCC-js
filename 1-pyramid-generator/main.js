@@ -5,3 +5,6 @@ let count = 8;
 
 // Try printing count + 1 to the console.
 console.log(count + 1);
+
+// Print count - 1 to the console.
+console.log(count - 1);

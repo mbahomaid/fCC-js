@@ -18,3 +18,6 @@ secondCharacter = "Test";
 
 // Add a console.log() to see what the value of your secondCharacter variable is.
 console.log(secondCharacter);
+
+// Change your secondCharacter assignment from "Test" to your character variable.
+secondCharacter = character;

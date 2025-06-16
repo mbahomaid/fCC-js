@@ -1,5 +1,5 @@
 let character = 'Hello';
 let count = 8;
 
-// Decalre an empty array
-let rows = [];
+// Add values to the array
+let rows = ["Naomi", "Quincy", "CamperChan"];
